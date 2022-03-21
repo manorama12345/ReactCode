@@ -4,6 +4,7 @@ import React from "react"
         return(
          <div>
             <h1>good morning</h1>
+            <h1>helllo</h1>
          </div>
          )
      }
